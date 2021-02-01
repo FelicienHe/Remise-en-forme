@@ -1,4 +1,5 @@
 """
+Ici on est dans la branche "Test"
 In this file, we try to optimize the learning rate.
 We will try the value 0.001, 0.005, 0.01, 0.015
 """
